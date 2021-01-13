@@ -8,6 +8,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model1.context.tt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model1.tt")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model_organizaciy.context.tt")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("model_organizaciy.tt")]
 
